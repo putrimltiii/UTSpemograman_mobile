@@ -8,6 +8,10 @@
 ## Figma: https://www.figma.com/design/JhcCW6Xil5BKPJ7va3Vk1V/ilyMusic?node-id=0-1&t=EsAzFw6WbqwII5El-1
 ## Sumulasi aplikasi ILY Muisic Offline/UX: https://youtu.be/bB2Erh27byk?si=EJAi078GIb7yQ0j8
 
+
+# Figma
+<img width="937" height="608" alt="image" src="https://github.com/user-attachments/assets/9313a996-4649-49f2-9a15-b091139f7bae" />
+
 # Morkup
 <img width="962" height="603" alt="image" src="https://github.com/user-attachments/assets/e6bbf0bd-5776-4b81-ae07-0d50381c5341" />
 
